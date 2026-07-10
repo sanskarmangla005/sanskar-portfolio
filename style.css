@@ -2189,3 +2189,111 @@ body.light-mode footer strong{
     }
 
 }
+
+
+/* =========================
+   Mobile Project Card Fix
+========================= */
+
+@media (max-width: 480px) {
+
+    .project-container {
+        padding: 0 15px;
+    }
+
+    .card {
+        width: 100%;
+        max-width: 100%;
+        overflow: hidden;
+    }
+
+    .card-content {
+        padding: 20px;
+    }
+
+    .project-btn {
+        display: block;
+        width: 100%;
+        max-width: 100%;
+        padding: 15px;
+        text-align: center;
+        box-sizing: border-box;
+    }
+
+    .card img {
+        width: 100%;
+        height: auto;
+        display: block;
+    }
+
+}
+/*=========================
+ Mobile Project Card Center
+=========================*/
+
+@media (max-width:480px){
+
+    .project-container{
+
+        display:flex;
+        flex-direction:column;
+        align-items:center;
+        gap:25px;
+
+    }
+
+    .card{
+
+        width:92%;
+        max-width:380px;
+        margin:0 auto;
+
+    }
+
+    .card img{
+
+        width:100%;
+        display:block;
+
+    }
+
+    .card-content{
+
+        padding:25px;
+
+    }
+
+    .project-btn{
+
+        display:block;
+        width:100%;
+        text-align:center;
+        box-sizing:border-box;
+
+    }
+
+}
+
+@media (max-width:480px){
+
+    #projects{
+        padding:80px 12px !important;
+    }
+
+    .project-container{
+        width:100% !important;
+        margin:0 auto !important;
+        padding:0 !important;
+
+        display:flex !important;
+        flex-direction:column !important;
+        align-items:center !important;
+    }
+
+    .card{
+        width:100% !important;
+        max-width:360px !important;
+        margin:0 auto 25px !important;
+    }
+
+}

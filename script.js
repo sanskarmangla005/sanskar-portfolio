@@ -268,3 +268,19 @@ document.querySelectorAll(".nav-links a").forEach(link=>{
 
 
 });
+
+/*=========================
+ Hire Me Button Alert
+=========================*/
+
+const hireBtn = document.getElementById("hireBtn");
+
+if (hireBtn) {
+
+    hireBtn.addEventListener("click", function () {
+
+        alert("Thank you for your interest!\n\nPlease contact me through the Contact section or email me at:\n\nagrawalsanskar60@gmail.com");
+
+    });
+
+}
