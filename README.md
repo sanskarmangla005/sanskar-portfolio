@@ -1,40 +1,49 @@
-# 👋 Hi, I'm Sanskar Agrawal
+# 👋 Hi, I'm **Sanskar Agrawal**
 
 # 🌐 Personal Portfolio Website
 
-Welcome to my personal portfolio! This website highlights my journey as a **Full Stack Web Developer**, showcasing my skills, projects, education, and achievements through a clean, responsive, and modern interface.
+Welcome to my personal portfolio repository! This website showcases my journey as a **Full Stack Web Developer**, highlighting my skills, projects, education, and achievements through a modern, responsive, and interactive design.
 
-## 🔗 Live Portfolio
+## 🚀 Live Demo
 
-🌍 **Visit Here:**
-**https://sanskar-portfolio-nine.vercel.app**
+🔗 **Portfolio Website:**
+**https://sanskar-portfolio-005.vercel.app**
 
 ---
 
 ## ✨ Features
 
-* 🎨 Modern & Responsive UI
-* 📱 Mobile-Friendly Design
+* 🎨 Modern & Responsive Design
+* 📱 Mobile-Friendly Layout
 * 👨‍💻 About Me Section
-* 🛠️ Technical Skills Showcase
-* 💼 Featured Projects
-* 🎓 Education Details
-* 📄 Resume Download Option
-* 📬 Contact Form
+* 💼 Projects Showcase
+* 🛠️ Skills & Technologies
+* 🎓 Education Timeline
+* 📄 Resume Download
+* 📬 Contact Section
 * 🔗 Social Media Links
-* ✨ Smooth Scrolling & Interactive Animations
+* ⚡ Smooth Animations & Scrolling
 
 ---
 
-## 🛠️ Built With
+## 🛠️ Tech Stack
+
+### Frontend
 
 * HTML5
 * CSS3
 * JavaScript (ES6)
 
+### Tools
+
+* Git
+* GitHub
+* VS Code
+* Vercel
+
 ---
 
-## 📁 Project Structure
+## 📂 Project Structure
 
 ```text
 Portfolio/
@@ -55,44 +64,50 @@ Portfolio/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/sanskarmangla005/Portfolio.git
+git clone https://github.com/sanskarmangla005/sanskar-portfolio.git
 ```
 
-### Open the Project
+### Navigate to the Project
 
 ```bash
-cd Portfolio
+cd sanskar-portfolio
 ```
 
-Simply open **index.html** in your preferred browser.
+### Run the Project
+
+Simply open **index.html** in your preferred web browser.
 
 ---
 
-## 💻 Sections Included
+## 📌 Website Sections
 
 * 🏠 Home
-* 👤 About
+* 👤 About Me
 * 💡 Skills
 * 🚀 Projects
 * 🎓 Education
+
 
 ---
 
 ## 📬 Connect With Me
 
-* 🌐 Portfolio: https://sanskar-portfolio-nine.vercel.app
+* 🌐 Portfolio: https://sanskar-portfolio-005.vercel.app
 * 💻 GitHub: https://github.com/sanskarmangla005
 * 💼 LinkedIn: https://www.linkedin.com/in/sanskar-agrawal
 
 ---
 
-## ⭐ Support
+## ⭐ Show Your Support
 
-If you found this project helpful or inspiring, consider giving it a ⭐ on GitHub. Your support is greatly appreciated!
+If you like this project, please consider giving it a **⭐ Star** on GitHub. It motivates me to build more amazing projects.
 
 ---
 
 ## 👨‍💻 Developed By
 
-**Sanskar Agrawal**
+### **Sanskar Agrawal**
 
+
+
+> **"Code. Learn. Build. Improve. Repeat." 🚀**
