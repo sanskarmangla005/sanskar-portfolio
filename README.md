@@ -7,8 +7,7 @@ Welcome to my personal portfolio repository! This website showcases my journey a
 ## 🚀 Live Demo
 
 🔗 **Portfolio Website:**
-**https://sanskar-portfolio-37hb.vercel.app**
-
+**https://sanskar-portfolio-sp.vercel.app**
 ---
 
 ## ✨ Features
@@ -92,7 +91,7 @@ Simply open **index.html** in your preferred web browser.
 
 ## 📬 Connect With Me
 
-* 🌐 Portfolio:https://sanskar-portfolio-37hb.vercel.app
+* 🌐 Portfolio:https://sanskar-portfolio-sp.vercel.app
 * 💻 GitHub: https://github.com/sanskarmangla005
 * 💼 LinkedIn: https://www.linkedin.com/in/sanskar-agrawal
 
